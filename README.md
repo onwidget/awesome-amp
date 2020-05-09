@@ -31,10 +31,9 @@ Inspired by the awesome-* trend on GitHub.
    - [AMP Email](https://amp.dev/about/email/) - Use AMP to send interactive, dynamic emails.
 - [Official Repository](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [The AMP Channel](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw) - Official YouTube channel of the AMP project.
-- Basic Tools:
-   - AMP Validator (https://validator.ampproject.org/) - Web interface for validate AMP html.
-   - AMP Playground (https://playground.amp.dev/) - Start prototyping in an interactive online editor.
-- [Examples](https://amp.dev/documentation/examples/)
+- [AMP Validator](https://validator.ampproject.org/) - Web interface for validate AMP html.
+- [AMP Playground](https://playground.amp.dev/) - Start prototyping in an interactive online editor.
+- [Examples](https://amp.dev/documentation/examples/) - AMP examples
 
 ## Integrations
 
