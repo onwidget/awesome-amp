@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-A curated list of [AMP (Accelerated Mobile Pages)](https://amp.dev/) repos, examples, starters, tutorials, components, modules, videos, and anything else useful.
+A curated list of **[AMP (Accelerated Mobile Pages)](https://amp.dev/)** repos, examples, starters, tutorials, components, modules, videos, and anything else useful.
 
 Inspired by the awesome-* trend on GitHub.
 
@@ -16,7 +16,7 @@ Inspired by the awesome-* trend on GitHub.
 
 ## About
 
-**AMP** is a free, open-source web component framework that powers all kinds of experiences on the web. Its mission is to improve the web for everyone – publishers, platforms, advertisers, creators, and of course, users. The AMP Project enables the creation of user-first websites, immersive tappable stories, lightning-fast ads, and dynamic email.
+**[AMP](https://amp.dev/)** is a free, open-source web component framework that powers all kinds of experiences on the web. Its mission is to improve the web for everyone – publishers, platforms, advertisers, creators, and of course, users. The AMP Project enables the creation of user-first websites, immersive tappable stories, lightning-fast ads, and dynamic email.
 
 
 ## Get started:
