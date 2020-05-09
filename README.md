@@ -10,16 +10,24 @@ Inspired by the awesome-* trend on GitHub.
 
 ![Awesome AMP](https://raw.githubusercontent.com/prototypearea/awesome-amp/master/amp-logo.svg)
 
+## Contents
+
+
+
+## About
+
+
+
 ## Get started:
-* Project Documentation: https://amp.dev/
-   * [AMP Websites](https://amp.dev/about/websites/)
-   * [Web Stories](https://amp.dev/about/stories/)
-   * [AMP Ads](https://amp.dev/about/ads/)
-   * [AMP Email](https://amp.dev/about/email/)
-* Official Repository: https://github.com/ampproject/amphtml
-* Youtube Channel: [The AMP Channel](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw)
+* Official Documentation (https://amp.dev/)
+   * [AMP Websites](https://amp.dev/about/websites/) - Web pages that are compelling, smooth, and load near instantaneously
+   * [Web Stories](https://amp.dev/about/stories/) - Use AMP to create visual stories on the web.
+   * [AMP Ads](https://amp.dev/about/ads/) - Use AMP to build and serve lightning fast, safe ads to pages and stories.
+   * [AMP Email](https://amp.dev/about/email/) - Use AMP to send interactive, dynamic emails.
+* [Official Repository](https://github.com/ampproject/amphtml) - The AMP web component framework.
+* [The AMP Channel](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw) - Official YouTube channel of the AMP project.
 * Basic Tools:
-   * AMP Validator: https://validator.ampproject.org/
-   * AMP Playground: https://playground.amp.dev/
+   * AMP Validator (https://validator.ampproject.org/) - Web interface for validate AMP html.
+   * AMP Playground (https://playground.amp.dev/) - Start prototyping in an interactive online editor.
 
 
