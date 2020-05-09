@@ -18,6 +18,7 @@ Inspired by the awesome-* trend on GitHub.
    - [Wordpress](#wordpress)
    - [React](#react)
 - [Templates](#templates)
+- [Community](#community)
 
 ## About
 
@@ -51,4 +52,9 @@ Inspired by the awesome-* trend on GitHub.
 * [AMP Project Templates](https://amp.dev/documentation/templates/) - Get started quickly with a ready-made design. Templates designed to work with all devices - mobile, tablet and desktop.
 * [amptemplates.io](https://www.amptemplates.io/) - A collection of responsive, blazing fast AMP templates from all over the web.
 
+## Community
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/amp-html)
+* [Google's AMP forum](https://goo.gl/utQ1KZ)
+* [@AMPhtml](https://twitter.com/AMPhtml) on Twitter
 
