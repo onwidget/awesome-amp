@@ -8,7 +8,7 @@ Inspired by the awesome-* trend on GitHub.
 
 ![Awesome AMP](https://raw.githubusercontent.com/prototypearea/awesome-amp/master/amp-logo.svg)
 
-## Table of Contents
+## Contents
 
 - [About](#about)
 - [Getting Started](#getting-started)
