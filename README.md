@@ -23,7 +23,7 @@ Inspired by the awesome-* trend on GitHub.
 **[AMP](https://amp.dev/)** is a free, open-source web component framework that powers all kinds of experiences on the web. Its mission is to improve the web for everyone – publishers, platforms, advertisers, creators, and of course, users. The AMP Project enables the creation of user-first websites, immersive tappable stories, lightning-fast ads, and dynamic email.
 
 
-## Getting Started:
+## Getting Started
 - Official Documentation (https://amp.dev/)
    - [AMP Websites](https://amp.dev/about/websites/) - Web pages that are compelling, smooth, and load near instantaneously
    - [Web Stories](https://amp.dev/about/stories/) - Use AMP to create visual stories on the web.
