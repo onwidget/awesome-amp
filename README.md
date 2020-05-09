@@ -24,35 +24,35 @@ Inspired by the awesome-* trend on GitHub.
 
 
 ## Getting Started:
-* Official Documentation (https://amp.dev/)
-   * [AMP Websites](https://amp.dev/about/websites/) - Web pages that are compelling, smooth, and load near instantaneously
-   * [Web Stories](https://amp.dev/about/stories/) - Use AMP to create visual stories on the web.
-   * [AMP Ads](https://amp.dev/about/ads/) - Use AMP to build and serve lightning fast, safe ads to pages and stories.
-   * [AMP Email](https://amp.dev/about/email/) - Use AMP to send interactive, dynamic emails.
-* [Official Repository](https://github.com/ampproject/amphtml) - The AMP web component framework.
-* [The AMP Channel](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw) - Official YouTube channel of the AMP project.
-* Basic Tools:
-   * AMP Validator (https://validator.ampproject.org/) - Web interface for validate AMP html.
-   * AMP Playground (https://playground.amp.dev/) - Start prototyping in an interactive online editor.
-* [Examples](https://amp.dev/documentation/examples/)
+- Official Documentation (https://amp.dev/)
+   - [AMP Websites](https://amp.dev/about/websites/) - Web pages that are compelling, smooth, and load near instantaneously
+   - [Web Stories](https://amp.dev/about/stories/) - Use AMP to create visual stories on the web.
+   - [AMP Ads](https://amp.dev/about/ads/) - Use AMP to build and serve lightning fast, safe ads to pages and stories.
+   - [AMP Email](https://amp.dev/about/email/) - Use AMP to send interactive, dynamic emails.
+- [Official Repository](https://github.com/ampproject/amphtml) - The AMP web component framework.
+- [The AMP Channel](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw) - Official YouTube channel of the AMP project.
+- Basic Tools:
+   - AMP Validator (https://validator.ampproject.org/) - Web interface for validate AMP html.
+   - AMP Playground (https://playground.amp.dev/) - Start prototyping in an interactive online editor.
+- [Examples](https://amp.dev/documentation/examples/)
 
 ## Integrations
 
 ### Wordpress
-* [AMP](https://wordpress.org/plugins/amp/) - The Official AMP plugin for Wordpress
+- [AMP](https://wordpress.org/plugins/amp/) - The Official AMP plugin for Wordpress
 ### React
-* [Nextjs AMP Support](https://nextjs.org/docs/advanced-features/amp-support/introduction) - With Next.js you can turn any React page into an AMP page, with minimal config, and without leaving React.
-* [react-amphtml](https://github.com/dfrankland/react-amphtml) - Use amphtml components inside your React apps easily!
-* [Storybook AMP](https://github.com/prototypearea/storybook-amp) - Addon to render AMP html in Storybook
+- [Nextjs AMP Support](https://nextjs.org/docs/advanced-features/amp-support/introduction) - With Next.js you can turn any React page into an AMP page, with minimal config, and without leaving React.
+- [react-amphtml](https://github.com/dfrankland/react-amphtml) - Use amphtml components inside your React apps easily!
+- [Storybook AMP](https://github.com/prototypearea/storybook-amp) - Addon to render AMP html in Storybook
 
 ## Templates
 
-* [AMP Project Templates](https://amp.dev/documentation/templates/) - Get started quickly with a ready-made design. Templates designed to work with all devices - mobile, tablet and desktop.
-* [amptemplates.io](https://www.amptemplates.io/) - A collection of responsive, blazing fast AMP templates from all over the web.
+- [AMP Project Templates](https://amp.dev/documentation/templates/) - Get started quickly with a ready-made design. Templates designed to work with all devices - mobile, tablet and desktop.
+- [amptemplates.io](https://www.amptemplates.io/) - A collection of responsive, blazing fast AMP templates from all over the web.
 
 ## Community
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/amp-html)
-* [Google's AMP forum](https://goo.gl/utQ1KZ)
-* [@AMPhtml](https://twitter.com/AMPhtml) on Twitter
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/amp-html)
+- [Google's AMP forum](https://goo.gl/utQ1KZ)
+- [@AMPhtml](https://twitter.com/AMPhtml) on Twitter
 
