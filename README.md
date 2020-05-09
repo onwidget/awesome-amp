@@ -14,6 +14,10 @@ Inspired by the awesome-* trend on GitHub.
 
 - [About](#about)
 - [Getting Started](#getting-started)
+- [Integrations](#integrations)
+   - [Wordpress](#wordpress)
+   - [React](#react)
+- [Templates](#templates)
 
 ## About
 
@@ -32,5 +36,19 @@ Inspired by the awesome-* trend on GitHub.
    * AMP Validator (https://validator.ampproject.org/) - Web interface for validate AMP html.
    * AMP Playground (https://playground.amp.dev/) - Start prototyping in an interactive online editor.
 * [Examples](https://amp.dev/documentation/examples/)
+
+## Integrations
+
+### Wordpress
+* [AMP](https://wordpress.org/plugins/amp/) - The Official AMP plugin for Wordpress
+### React
+* [Nextjs AMP Support](https://nextjs.org/docs/advanced-features/amp-support/introduction) - With Next.js you can turn any React page into an AMP page, with minimal config, and without leaving React.
+* [react-amphtml](https://github.com/dfrankland/react-amphtml) - Use amphtml components inside your React apps easily!
+* [Storybook AMP](https://github.com/prototypearea/storybook-amp) - Addon to render AMP html in Storybook
+
+## Templates
+
+* [AMP Project Templates](https://amp.dev/documentation/templates/) - Get started quickly with a ready-made design. Templates designed to work with all devices - mobile, tablet and desktop.
+* [amptemplates.io](https://www.amptemplates.io/) - A collection of responsive, blazing fast AMP templates from all over the web.
 
 
