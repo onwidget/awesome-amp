@@ -12,8 +12,8 @@ Inspired by the awesome-* trend on GitHub.
 
 ## Contents
 
-- About (#about)
-- Getting Started (#getting-started)
+- [About](#about)
+- [Getting Started](#getting-started)
 
 ## About
 
