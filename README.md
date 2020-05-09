@@ -9,3 +9,17 @@ Inspired by the awesome-* trend on GitHub.
 > AMP is a web component framework to easily create user-first websites, stories, ads and emails.
 
 ![Awesome AMP](https://raw.githubusercontent.com/prototypearea/awesome-amp/master/amp-logo.svg)
+
+## Get started:
+* Project Documentation: https://amp.dev/
+   * [AMP Websites](https://amp.dev/about/websites/)
+   * [Web Stories](https://amp.dev/about/stories/)
+   * [AMP Ads](https://amp.dev/about/ads/)
+   * [AMP Email](https://amp.dev/about/email/)
+* Official Repository: https://github.com/ampproject/amphtml
+* Youtube Channel: [The AMP Channel](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw)
+* Basic Tools:
+   * AMP Validator: https://validator.ampproject.org/
+   * AMP Playground: https://playground.amp.dev/
+
+
