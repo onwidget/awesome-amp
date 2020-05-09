@@ -1,4 +1,4 @@
-# Awesome AMP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+# Awesome AMP [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 A curated list of **[AMP (Accelerated Mobile Pages)](https://amp.dev/)** repos, examples, starters, tutorials, components, modules, videos, and anything else useful.
 
