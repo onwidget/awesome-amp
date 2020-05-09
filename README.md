@@ -55,7 +55,7 @@ Inspired by the awesome-* trend on GitHub.
 
 ## Community
 
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/amp-html) - recommended way to find answers to questions about AMP.
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/amp-html) - Recommended way to find answers to questions about AMP.
 - [Google's AMP forum](https://goo.gl/utQ1KZ) - For AMP on Google Search questions or issues.
-- [@AMPhtml](https://twitter.com/AMPhtml) - Twitter account.
+- [@AMPhtml](https://twitter.com/AMPhtml) on Twitter.
 
