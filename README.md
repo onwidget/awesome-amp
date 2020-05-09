@@ -24,6 +24,7 @@ Inspired by the awesome-* trend on GitHub.
 
 
 ## Getting Started
+
 - Official Documentation (https://amp.dev/)
    - [AMP Websites](https://amp.dev/about/websites/) - Web pages that are compelling, smooth, and load near instantaneously.
    - [Web Stories](https://amp.dev/about/stories/) - Use AMP to create visual stories on the web.
@@ -38,15 +39,18 @@ Inspired by the awesome-* trend on GitHub.
 ## Integrations
 
 ### Wordpress
+
 - [AMP](https://wordpress.org/plugins/amp/) - The Official AMP plugin for Wordpress.
+
 ### React
+
 - [Nextjs AMP Support](https://nextjs.org/docs/advanced-features/amp-support/introduction) - With Next.js you can turn any React page into an AMP page, with minimal config, and without leaving React.
 - [react-amphtml](https://github.com/dfrankland/react-amphtml) - Use amphtml components inside your React apps easily.
 - [Storybook AMP](https://github.com/prototypearea/storybook-amp) - Addon to render AMP html in Storybook.
 
 ## Templates
 
-- [AMP Project Templates](https://amp.dev/documentation/templates/) - Get started quickly with a ready-made design. Templates designed to work with all devices - mobile, tablet and desktop.
+- [AMP Project Templates](https://amp.dev/documentation/templates/) - Get started quickly with a ready-made design. Templates designed to work with all devices: mobile, tablet and desktop.
 - [amptemplates.io](https://www.amptemplates.io/) - A collection of responsive, blazing fast AMP templates from all over the web.
 
 ## Community
