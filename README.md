@@ -10,7 +10,7 @@ Inspired by the awesome-* trend on GitHub.
 
 ![Awesome AMP](https://raw.githubusercontent.com/prototypearea/awesome-amp/master/amp-logo.svg)
 
-## Contents
+## Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting-started)
