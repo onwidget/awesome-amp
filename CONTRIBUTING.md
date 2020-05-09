@@ -9,4 +9,4 @@
 - Start the description with a capital and end with a full stop/period/question mark.
 - Check your spelling and grammar.
 
-Thank you for contributing 😃
+Thank you for contributing and being awesome! 😎
