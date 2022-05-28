@@ -53,7 +53,7 @@ Inspired by the awesome-* trend on GitHub.
 - [Google AMP Test](https://search.google.com/test/amp) - Test if and how your AMP page appears in Google Search.
 - [Gmail’s AMP for Email Playground](https://amp.gmail.dev/playground/) - Draft AMP emails, see a live preview, and have your emails sent to your own Gmail account for testing.
 - [Mail.ru AMP Playground](https://postmaster.mail.ru/amp/) - Draft AMP emails, see a live preview, and have your emails sent to your Mail.ru account.
-- 
+
 ## Integrations
 
 ### Wordpress
