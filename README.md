@@ -74,7 +74,7 @@ Inspired by the awesome-* trend on GitHub.
 - [react-amphtml](https://github.com/dfrankland/react-amphtml) - Use amphtml components inside your React apps easily.
 - Storybook:
    - [Storybook AMP addon](https://github.com/onwidget/storybook-amp) - Storybook addon for AMP (Accelerated Mobile Pages). Allows to display in your stories AMP Html components generated with React.
-   - [@ampproject/storybook-addon](https://storybook.js.org/addons/@ampproject/storybook-addon/) - Storybook addon for building and testing AMP components
+   - [@ampproject/storybook-addon](https://github.com/ampproject/storybook-addon-amp) - Storybook addon for building and testing AMP components
 
 ## Templates
 
