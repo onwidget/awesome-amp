@@ -12,8 +12,11 @@ Inspired by the awesome-* trend on GitHub.
 
 - [About](#about)
 - [Getting Started](#getting-started)
+- [Development and Optimization](#development-and-optimization)
+- [Testing](#testing)
 - [Integrations](#integrations)
    - [Wordpress](#wordpress)
+   - [Magento](#magento)
    - [React](#react)
 - [Templates](#templates)
 - [Community](#community)
@@ -35,6 +38,22 @@ Inspired by the awesome-* trend on GitHub.
 - [The AMP Channel](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw) - Official YouTube channel of the AMP project.
 - [Examples](https://amp.dev/documentation/examples/) - AMP examples.
 
+## Development and Optimization
+
+- [AMP Validator](https://validator.ampproject.org/) - Web interface for validate AMP html.
+- [Experiment Configurator](https://cdn.ampproject.org/experiments.html) - Beta-test new features of AMP before they're available for everyone.
+- [AMP Playground](https://playground.amp.dev/) - Start prototyping in an interactive online editor.
+- [AMP Toolbox](https://github.com/ampproject/amp-toolbox) - A collection of AMP tools making it easier to publish and host AMP pages.
+- [AMP Page Experience Guide](https://amp.dev/page-experience/) - Analyze and learn how to optimize your AMP pages for Google's page experience ranking signal
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=amphtml.amphtml-validator) - Makes authoring AMP easy by validating for errors/warnings as you type within VS Code.
+- [AMP Prototyper](https://github.com/jonchenn/amp-prototyper) - A prototyping tool that automatically converts a HTML page to AMP for demonstrating performance gains with AMP.
+
+## Testing
+
+- [Google AMP Test](https://search.google.com/test/amp) - Test if and how your AMP page appears in Google Search.
+- [Gmail’s AMP for Email Playground](https://amp.gmail.dev/playground/) - Draft AMP emails, see a live preview, and have your emails sent to your own Gmail account for testing.
+- [Mail.ru AMP Playground](https://postmaster.mail.ru/amp/) - Draft AMP emails, see a live preview, and have your emails sent to your Mail.ru account.
+- 
 ## Integrations
 
 ### Wordpress
@@ -56,22 +75,6 @@ Inspired by the awesome-* trend on GitHub.
 - Storybook:
    - [Storybook AMP addon](https://github.com/onwidget/storybook-amp) - Storybook addon for AMP (Accelerated Mobile Pages). Allows to display in your stories AMP Html components generated with React.
    - [@ampproject/storybook-addon](https://storybook.js.org/addons/@ampproject/storybook-addon/) - Storybook addon for building and testing AMP components
-
-## Development and Optimization
-
-- [AMP Validator](https://validator.ampproject.org/) - Web interface for validate AMP html.
-- [Experiment Configurator](https://cdn.ampproject.org/experiments.html) - Beta-test new features of AMP before they're available for everyone.
-- [AMP Playground](https://playground.amp.dev/) - Start prototyping in an interactive online editor.
-- [AMP Toolbox](https://github.com/ampproject/amp-toolbox) - A collection of AMP tools making it easier to publish and host AMP pages.
-- [AMP Page Experience Guide](https://amp.dev/page-experience/) - Analyze and learn how to optimize your AMP pages for Google's page experience ranking signal
-- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=amphtml.amphtml-validator) - Makes authoring AMP easy by validating for errors/warnings as you type within VS Code.
-- [AMP Prototyper](https://github.com/jonchenn/amp-prototyper) - A prototyping tool that automatically converts a HTML page to AMP for demonstrating performance gains with AMP.
-
-## Testing
-
-- [Google AMP Test](https://search.google.com/test/amp) - Test if and how your AMP page appears in Google Search.
-- [Gmail’s AMP for Email Playground](https://amp.gmail.dev/playground/) - Draft AMP emails, see a live preview, and have your emails sent to your own Gmail account for testing.
-- [Mail.ru AMP Playground](https://postmaster.mail.ru/amp/) - Draft AMP emails, see a live preview, and have your emails sent to your Mail.ru account.
 
 ## Templates
 
