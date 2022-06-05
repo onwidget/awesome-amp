@@ -4,3 +4,5 @@ description: 👓 A curated list of AMP (Accelerated Mobile Pages) repos, exampl
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+include:
+  - README.md
