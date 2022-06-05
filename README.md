@@ -2,11 +2,11 @@
 
 A curated list of **[AMP (Accelerated Mobile Pages)](https://amp.dev/)** repos, examples, starters, tutorials, components, modules, videos, and anything else useful.
 
-Inspired by the awesome-* trend on GitHub.
+Inspired by the _awesome-*_ trend on GitHub.
+
+<img src="https://raw.githubusercontent.com/onwidget/awesome-amp/master/amp-logo.svg" alt="Awesome AMP HTML" width="200">
 
 > AMP is a web component framework to easily create user-first websites, stories, ads and emails.
-
-![Awesome AMP HTML](https://raw.githubusercontent.com/onwidget/awesome-amp/master/amp-logo.svg)
 
 ## Contents
 
