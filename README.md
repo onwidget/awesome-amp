@@ -23,12 +23,12 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 ## About
 
-**[AMP](https://amp.dev/)** is a free, open-source web component framework that powers all kinds of experiences on the web. Its mission is to improve the web for everyone – publishers, platforms, advertisers, creators, and of course, users. The AMP Project enables the creation of user-first websites, immersive tappable stories, lightning-fast ads, and dynamic email.
+**AMP** is a free, open-source web component framework that powers all kinds of experiences on the web. Its mission is to improve the web for everyone – publishers, platforms, advertisers, creators, and of course, users. The AMP Project enables the creation of user-first websites, immersive tappable stories, lightning-fast ads, and dynamic email.
 
 
 ## Getting Started
 
-- Official Documentation (https://amp.dev/)
+- Official Documentation:
    - [AMP Websites](https://amp.dev/about/websites/) - Web pages that are compelling, smooth, and load near instantaneously.
    - [Web Stories](https://amp.dev/about/stories/) - Use AMP to create visual stories on the web.
    - [AMP Ads](https://amp.dev/about/ads/) - Use AMP to build and serve lightning fast, safe ads to pages and stories.
@@ -44,14 +44,14 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [Experiment Configurator](https://cdn.ampproject.org/experiments.html) - Beta-test new features of AMP before they're available for everyone.
 - [AMP Playground](https://playground.amp.dev/) - Start prototyping in an interactive online editor.
 - [AMP Toolbox](https://github.com/ampproject/amp-toolbox) - A collection of AMP tools making it easier to publish and host AMP pages.
-- [AMP Page Experience Guide](https://amp.dev/page-experience/) - Analyze and learn how to optimize your AMP pages for Google's page experience ranking signal
+- [AMP Page Experience Guide](https://amp.dev/page-experience/) - Analyze and learn how to optimize your AMP pages for Google's page experience ranking signal.
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=amphtml.amphtml-validator) - Makes authoring AMP easy by validating for errors/warnings as you type within VS Code.
 - [AMP Prototyper](https://github.com/jonchenn/amp-prototyper) - A prototyping tool that automatically converts a HTML page to AMP for demonstrating performance gains with AMP.
 
 ## Testing
 
 - [Google AMP Test](https://search.google.com/test/amp) - Test if and how your AMP page appears in Google Search.
-- [Gmail’s AMP for Email Playground](https://amp.gmail.dev/playground/) - Draft AMP emails, see a live preview, and have your emails sent to your own Gmail account for testing.
+- [Gmails AMP for Email Playground](https://amp.gmail.dev/playground/) - Draft AMP emails, see a live preview, and have your emails sent to your own Gmail account for testing.
 - [Mail.ru AMP Playground](https://postmaster.mail.ru/amp/) - Draft AMP emails, see a live preview, and have your emails sent to your Mail.ru account.
 
 ## Integrations
@@ -60,8 +60,8 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 - [AMP for WP](https://amp-wp.org/) - Success with WordPress, powered by AMP with the Official AMP plugin.
    - [AMP Plugin](https://wordpress.org/plugins/amp/) - The Official AMP plugin for Wordpress.
-   - [Ecosystem Plugins](https://amp-wp.org/ecosystem/plugins/) - Plugins compatibles with the Official AMP plugin for Wordpress
-   - [Ecosystem Themes](https://amp-wp.org/ecosystem/themes/) - Themes compatibles with the Official AMP plugin for Wordpress
+   - [Ecosystem Plugins](https://amp-wp.org/ecosystem/plugins/) - Plugins compatibles with the Official AMP plugin for Wordpress.
+   - [Ecosystem Themes](https://amp-wp.org/ecosystem/themes/) - Themes compatibles with the Official AMP plugin for Wordpress.
 - [AMP for WP Plugin](https://wordpress.org/plugins/accelerated-mobile-pages/) - AMP for WP automatically adds Accelerated Mobile Pages (Google AMP Project) functionality to your WordPress site.
 
 ### Magento
@@ -74,7 +74,7 @@ Inspired by the _awesome-*_ trend on GitHub.
 - [react-amphtml](https://github.com/dfrankland/react-amphtml) - Use amphtml components inside your React apps easily.
 - Storybook:
    - [Storybook AMP addon](https://github.com/onwidget/storybook-amp) - Storybook addon for AMP (Accelerated Mobile Pages). Allows to display in your stories AMP Html components generated with React.
-   - [@ampproject/storybook-addon](https://github.com/ampproject/storybook-addon-amp) - Storybook addon for building and testing AMP components
+   - [@ampproject/storybook-addon](https://github.com/ampproject/storybook-addon-amp) - Storybook addon for building and testing AMP components.
 
 ## Templates
 
@@ -85,5 +85,5 @@ Inspired by the _awesome-*_ trend on GitHub.
 
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/amp-html) - Recommended way to find answers to questions about AMP.
 - [Google's AMP forum](https://goo.gl/utQ1KZ) - For AMP on Google Search questions or issues.
-- [@AMPhtml](https://twitter.com/AMPhtml) on Twitter.
+- [@AMPhtml](https://twitter.com/AMPhtml) - on Twitter.
 
