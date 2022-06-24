@@ -5,3 +5,6 @@ google_analytics:
 theme: jekyll-theme-minimal
 include:
   - README.md
+author:
+    name: onWidget
+    url: https://onwidget.com
