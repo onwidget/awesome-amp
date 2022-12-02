@@ -1,10 +1,10 @@
+<img src="https://raw.githubusercontent.com/onwidget/awesome-amp/master/amp-logo.svg" alt="Awesome AMP HTML" width="300">
+
 # Awesome AMP HTML &middot; [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Lint](https://github.com/onwidget/awesome-amp/actions/workflows/lint.yaml/badge.svg)](https://github.com/onwidget/awesome-amp/actions/workflows/lint.yaml) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 A curated list of **[AMP (Accelerated Mobile Pages)](https://amp.dev/)** repos, examples, starters, tutorials, components, modules, videos, and anything else useful.
 
 Inspired by the _awesome-*_ trend on GitHub.
-
-<img src="https://raw.githubusercontent.com/onwidget/awesome-amp/master/amp-logo.svg" alt="Awesome AMP HTML" width="200">
 
 > AMP is a web component framework to easily create user-first websites, stories, ads and emails.
 
